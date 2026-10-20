@@ -1,4 +1,4 @@
-package EjerciciosMultihilo.Ejercicio2;
+package EjerciciosMultihilo.Ejercicio2Executor;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;

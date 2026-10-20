@@ -1,4 +1,4 @@
-package EjerciciosMultihilo.Ejercicio2;
+package EjerciciosMultihilo.Ejercicio2Executor;
 
 public class Cliente implements Runnable {
 
